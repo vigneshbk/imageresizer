@@ -1,7 +1,7 @@
 inputFolder:
-  - /home/evigkum/data/vigneshbk/shared/BPMNScratchpad/bpmnsamples
-  - /home/evigkum/data/vigneshbk/shared/BPMNScratchpad
-outputFolder   : /home/evigkum/data/vigneshbk/op
+  - /home/evigkum/testbed
+  - /home/evigkum/testbed
+outputFolder: /home/evigkum/testbed-op
 size: 1920*1080
 
 
